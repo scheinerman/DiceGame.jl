@@ -1,0 +1,4 @@
+name = "DiceGame"
+uuid = "b2ab0e98-43b8-4c3b-bffb-eef0cf041e28"
+authors = ["Ed Scheinerman <ers@jhu.edu>"]
+version = "0.0.0"
